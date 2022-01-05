@@ -100,6 +100,15 @@ hr {
     width: 100%;
 }
 
+.column01 .followers {
+    font-weight: 500;
+    color: hsl(0, 0%, 59%);
+    font-size: 0.68rem;
+    letter-spacing: 0.07rem;
+    margin-top: 0.3rem;
+    margin-bottom: 2rem;
+}
+
 .column02 {
     display: flex;
     flex-direction: column;
@@ -108,6 +117,15 @@ hr {
     font-size: 1.1rem;
     color: hsl(229, 23%, 23%);
     width: 100%;
+}
+
+.column02 .likes {
+    font-weight: 500;
+    color: hsl(0, 0%, 59%);
+    font-size: 0.68rem;
+    letter-spacing: 0.1rem;
+    margin-top: 0.3rem;
+    margin-bottom: 2rem;
 }
 
 .column03 {
@@ -119,24 +137,6 @@ hr {
     color: hsl(229, 23%, 23%);
     margin-right: 3rem;
     width: 100%;
-}
-
-.column01 .followers {
-    font-weight: 500;
-    color: hsl(0, 0%, 59%);
-    font-size: 0.68rem;
-    letter-spacing: 0.07rem;
-    margin-top: 0.3rem;
-    margin-bottom: 2rem;
-}
-
-.column02 .likes {
-    font-weight: 500;
-    color: hsl(0, 0%, 59%);
-    font-size: 0.68rem;
-    letter-spacing: 0.1rem;
-    margin-top: 0.3rem;
-    margin-bottom: 2rem;
 }
 
 .column03 .photos {
